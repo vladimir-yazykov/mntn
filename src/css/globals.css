@@ -1,0 +1,26 @@
+:root {
+    --color-white: #fff;
+    --color-black: #000;
+    --color-dark: #272727;
+    
+    --color-gray10: #848484;
+    --color-gray20: #646464;
+
+    --color-green10: #0EB000;
+    --color-green20: #0A8200;
+
+    --color-blue: #002482;
+
+    --gap-default: 20px;
+    --gap-medium: 30px;
+}
+
+body {
+    font-family: 'SFProDisplay', sans-serif;
+}
+
+.container {
+    padding-left: var(--gap-default);
+    padding-right: var(--gap-default);
+    box-sizing: border-box;
+}

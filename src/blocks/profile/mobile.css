@@ -1,0 +1,11 @@
+.profile {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    padding: 6px 0;
+}
+
+.profile__image {
+    aspect-ratio: 1;
+    width: 35px;
+}
