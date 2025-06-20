@@ -1,0 +1,30 @@
+.categories {
+    padding-left: var(--gap-default);
+}
+
+.categories__container {
+    display: flex;
+    gap: 22px;
+    overflow-x: auto;
+    padding-bottom: 10px;
+    margin-bottom: -10px;
+}
+
+.categories__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--gap-small);
+}
+
+.categories__image {
+    aspect-ratio: 1;
+    width: 62px;
+}
+
+.categories__name {
+    font-family: 'SFProDisplay', sans-serif;
+    font-size: var(--font-size-small);
+    color: var(--color-dark);
+    white-space: nowrap;
+}

@@ -11,8 +11,12 @@
 
     --color-blue: #002482;
 
+    --gap-small: 10px;
     --gap-default: 20px;
     --gap-medium: 30px;
+
+    --font-size-small: 14px; 
+    --font-size-default: 20px;
 }
 
 body {

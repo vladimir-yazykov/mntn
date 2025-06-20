@@ -1,0 +1,9 @@
+.mobile-header__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.mobile-header__nav {
+    
+}

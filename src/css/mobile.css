@@ -1,6 +1,9 @@
+@import url('../blocks/page/mobile.css');
 @import url('../blocks/header/mobile-header.css');
 @import url('../blocks/profile/mobile.css');
+@import url('../blocks/icon/mobile.css');
+@import url('../blocks/categories/mobile.css');
 
 body {
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'SFProDisplay', sans-serif;
 }

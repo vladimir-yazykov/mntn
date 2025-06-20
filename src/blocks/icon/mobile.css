@@ -1,0 +1,9 @@
+.icon {
+    display: inline-block;
+}
+
+.icon_search {
+    aspect-ratio: 1;
+    width: 22px;
+    background-image: url(../../images/icon_search.svg);
+}
